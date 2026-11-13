@@ -6,6 +6,6 @@ Site pessoal de apresentação profissional, com foco em análise de dados e Bus
 
 - `index.html`: conteúdo e estrutura semântica das páginas e seções.
 - `css/styles.css`: cores, tipografia, layout, componentes e regras responsivas.
-- `js/main.js`: navegação do carrossel de projetos, incluindo botões, pontos, teclado e suporte a movimento reduzido.
+- `js/main.js`: navegação do carrossel de projetos e alternância entre português e inglês, com a preferência de idioma salva no navegador.
 
 As fontes Bricolage Grotesque e Instrument Sans são carregadas do Google Fonts; sem conexão, o navegador usa fontes alternativas locais.
